@@ -1,0 +1,18 @@
+{
+  "mode": "storeapi",
+  "runs": 1,
+  "results": [
+    {
+      "addToCart": 1064,
+      "pageLoad": 1549,
+      "timeToInteractive": 1553,
+      "fillBilling": 3778,
+      "updateWait": 1006,
+      "fillStripe": 15002,
+      "submitToConfirmation": 1093,
+      "success": true,
+      "finalUrl": "https://storeapi.mk-perf.sobolew.ski/checkout/order-received/58049/?key=wc_order_Y59fsmYOsXDCN",
+      "totalCheckout": 23981
+    }
+  ]
+}

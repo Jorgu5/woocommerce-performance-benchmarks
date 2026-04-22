@@ -1,0 +1,177 @@
+{
+    "metrics": {
+        "http_req_duration{expected_response:true}": {
+            "p(99)": 897.8998399999977,
+            "avg": 448.50913687984695,
+            "min": 59.483,
+            "med": 294.869,
+            "max": 59995.145,
+            "p(90)": 363.874,
+            "p(95)": 393.8055
+        },
+        "http_req_tls_handshaking": {
+            "avg": 0.1415783723596596,
+            "min": 0,
+            "med": 0,
+            "max": 143.935,
+            "p(90)": 0,
+            "p(95)": 0,
+            "p(99)": 0
+        },
+        "http_req_failed": {
+            "passes": 629,
+            "fails": 90079,
+            "value": 0.006934338757331217
+        },
+        "vus": {
+            "value": 1,
+            "min": 1,
+            "max": 200
+        },
+        "vus_max": {
+            "value": 200,
+            "min": 200,
+            "max": 200
+        },
+        "data_received": {
+            "count": 146393581,
+            "rate": 287047.6882528242
+        },
+        "http_req_duration": {
+            "avg": 861.4157374322033,
+            "min": 59.483,
+            "med": 295.568,
+            "max": 60004.312,
+            "p(90)": 366.2393,
+            "p(95)": 402.97329999999954,
+            "p(99)": 5613.2105499999725
+        },
+        "checks": {
+            "passes": 135218,
+            "fails": 927,
+            "value": 0.9931910830364685
+        },
+        "target_success": {
+            "count": 44399,
+            "rate": 87.05730281122872
+        },
+        "target_fail": {
+            "count": 272,
+            "rate": 0.5333360292946736
+        },
+        "http_req_receiving": {
+            "avg": 0.12468940997490426,
+            "min": 0,
+            "med": 0.022,
+            "max": 60.803,
+            "p(90)": 0.082,
+            "p(95)": 0.108,
+            "p(99)": 0.204
+        },
+        "iterations": {
+            "count": 45591,
+            "rate": 89.39456952784361
+        },
+        "http_req_connecting": {
+            "min": 0,
+            "med": 0,
+            "max": 82.227,
+            "p(90)": 0,
+            "p(95)": 0,
+            "p(99)": 0,
+            "avg": 0.11101501521365265
+        },
+        "http_req_waiting": {
+            "med": 295.44849999999997,
+            "max": 60004.297,
+            "p(90)": 366.0004,
+            "p(95)": 402.49065,
+            "p(99)": 5613.137989999972,
+            "avg": 861.2374268862765,
+            "min": 59.429
+        },
+        "target_duration": {
+            "med": 281,
+            "max": 60002,
+            "p(90)": 337,
+            "p(95)": 367,
+            "p(99)": 4634.6999999999925,
+            "avg": 779.5189048823621,
+            "min": 65,
+            "thresholds": {
+                "p(95)<5000": false
+            }
+        },
+        "http_req_blocked": {
+            "min": 0,
+            "med": 0,
+            "max": 207.866,
+            "p(90)": 0.001,
+            "p(95)": 0.001,
+            "p(99)": 0.002,
+            "avg": 0.2536338801429395
+        },
+        "iteration_duration": {
+            "max": 239321.335791,
+            "p(90)": 697.7335,
+            "p(95)": 767.0496665,
+            "p(99)": 60001.385475,
+            "avg": 1656.7673089272448,
+            "min": 73.60075,
+            "med": 598.313458
+        },
+        "http_req_sending": {
+            "med": 0.034,
+            "max": 7.555,
+            "p(90)": 0.1,
+            "p(95)": 0.13,
+            "p(99)": 0.256,
+            "avg": 0.05362113595272371,
+            "min": 0.008
+        },
+        "data_sent": {
+            "count": 12613006,
+            "rate": 24731.50932908049
+        },
+        "http_reqs": {
+            "count": 90708,
+            "rate": 177.85972259287226
+        }
+    },
+    "root_group": {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "session init 200": {
+                    "name": "session init 200",
+                    "path": "::session init 200",
+                    "id": "e4077ac26b182e1b20d4e4cac4180311",
+                    "passes": 163,
+                    "fails": 37
+                },
+                "add_to_cart 200": {
+                    "id": "8bd954fa760fb5e8ef98e20e934e6ec2",
+                    "passes": 45328,
+                    "fails": 309,
+                    "name": "add_to_cart 200",
+                    "path": "::add_to_cart 200"
+                },
+                "has fragments": {
+                    "fails": 309,
+                    "name": "has fragments",
+                    "path": "::has fragments",
+                    "id": "615699412f0373c41364df6cbef6b361",
+                    "passes": 45328
+                },
+                "apply_coupon 200": {
+                    "fails": 272,
+                    "name": "apply_coupon 200",
+                    "path": "::apply_coupon 200",
+                    "id": "abee2e90b2b92eb59c8a31f77a2e369c",
+                    "passes": 44399
+                }
+            },
+        "name": "",
+        "path": ""
+    }
+}

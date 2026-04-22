@@ -1,0 +1,190 @@
+{
+  "classic-cold": [
+    {
+      "fcp": 408,
+      "lcp": 408,
+      "cls": 0,
+      "tbt": 0,
+      "realTti": 408,
+      "longTasks": 0,
+      "transfer": 39939
+    },
+    {
+      "fcp": 400,
+      "lcp": 400,
+      "cls": 0,
+      "tbt": 0,
+      "realTti": 400,
+      "longTasks": 0,
+      "transfer": 39938
+    },
+    {
+      "fcp": 404,
+      "lcp": 404,
+      "cls": 0,
+      "tbt": 0,
+      "realTti": 404,
+      "longTasks": 0,
+      "transfer": 39938
+    },
+    {
+      "fcp": 404,
+      "lcp": 404,
+      "cls": 0,
+      "tbt": 0,
+      "realTti": 404,
+      "longTasks": 0,
+      "transfer": 39939
+    },
+    {
+      "fcp": 404,
+      "lcp": 404,
+      "cls": 0,
+      "tbt": 0,
+      "realTti": 404,
+      "longTasks": 0,
+      "transfer": 39939
+    }
+  ],
+  "classic-warm": [
+    {
+      "fcp": 332,
+      "lcp": 356,
+      "cls": 0.0124,
+      "tbt": 0,
+      "realTti": 332,
+      "longTasks": 0,
+      "transfer": 1410
+    },
+    {
+      "fcp": 324,
+      "lcp": 424,
+      "cls": 0.0124,
+      "tbt": 0,
+      "realTti": 324,
+      "longTasks": 0,
+      "transfer": 1410
+    },
+    {
+      "fcp": 324,
+      "lcp": 436,
+      "cls": 0.0124,
+      "tbt": 0,
+      "realTti": 324,
+      "longTasks": 0,
+      "transfer": 1408
+    },
+    {
+      "fcp": 324,
+      "lcp": 372,
+      "cls": 0.0124,
+      "tbt": 0,
+      "realTti": 324,
+      "longTasks": 0,
+      "transfer": 1410
+    },
+    {
+      "fcp": 324,
+      "lcp": 364,
+      "cls": 0.0124,
+      "tbt": 0,
+      "realTti": 324,
+      "longTasks": 0,
+      "transfer": 1410
+    }
+  ],
+  "storeapi-cold": [
+    {
+      "fcp": 920,
+      "lcp": 920,
+      "cls": 0.0024,
+      "tbt": 49,
+      "realTti": 3811,
+      "longTasks": 2,
+      "transfer": 640378
+    },
+    {
+      "fcp": 916,
+      "lcp": 916,
+      "cls": 0.0024,
+      "tbt": 57,
+      "realTti": 3818,
+      "longTasks": 2,
+      "transfer": 640378
+    },
+    {
+      "fcp": 928,
+      "lcp": 928,
+      "cls": 0.0024,
+      "tbt": 44,
+      "realTti": 3802,
+      "longTasks": 2,
+      "transfer": 640378
+    },
+    {
+      "fcp": 920,
+      "lcp": 920,
+      "cls": 0.0024,
+      "tbt": 51,
+      "realTti": 3812,
+      "longTasks": 2,
+      "transfer": 640378
+    },
+    {
+      "fcp": 912,
+      "lcp": 912,
+      "cls": 0.0024,
+      "tbt": 53,
+      "realTti": 3815,
+      "longTasks": 2,
+      "transfer": 640378
+    }
+  ],
+  "storeapi-warm": [
+    {
+      "fcp": 336,
+      "lcp": 336,
+      "cls": 0,
+      "tbt": 0,
+      "realTti": 336,
+      "longTasks": 0,
+      "transfer": 0
+    },
+    {
+      "fcp": 320,
+      "lcp": 344,
+      "cls": 0.0002,
+      "tbt": 0,
+      "realTti": 320,
+      "longTasks": 0,
+      "transfer": 0
+    },
+    {
+      "fcp": 320,
+      "lcp": 344,
+      "cls": 0.0002,
+      "tbt": 0,
+      "realTti": 320,
+      "longTasks": 0,
+      "transfer": 0
+    },
+    {
+      "fcp": 320,
+      "lcp": 336,
+      "cls": 0.0002,
+      "tbt": 0,
+      "realTti": 320,
+      "longTasks": 0,
+      "transfer": 0
+    },
+    {
+      "fcp": 324,
+      "lcp": 340,
+      "cls": 0.0002,
+      "tbt": 0,
+      "realTti": 324,
+      "longTasks": 0,
+      "transfer": 0
+    }
+  ]
+}

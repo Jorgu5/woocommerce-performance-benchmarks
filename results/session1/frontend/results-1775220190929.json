@@ -1,0 +1,24 @@
+{
+  "classic": {
+    "mode": "classic",
+    "median": 0,
+    "avg": 0,
+    "min": 0,
+    "max": 0,
+    "totals": [],
+    "success": 0
+  },
+  "storeapi": {
+    "mode": "storeapi",
+    "median": 12454,
+    "avg": 12617,
+    "min": 12426,
+    "max": 12972,
+    "totals": [
+      12426,
+      12454,
+      12972
+    ],
+    "success": 3
+  }
+}

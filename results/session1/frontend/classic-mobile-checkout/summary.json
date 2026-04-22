@@ -1,0 +1,18 @@
+{
+  "mode": "classic",
+  "device": "mobile",
+  "page": "checkout",
+  "runs": 1,
+  "results": [
+    {
+      "score": 99,
+      "fcp": 1460.5758,
+      "lcp": 1460.5758,
+      "tti": 3947.274062664795,
+      "tbt": 95,
+      "cls": 0,
+      "si": 2099.988072088758,
+      "bytes": 396458
+    }
+  ]
+}

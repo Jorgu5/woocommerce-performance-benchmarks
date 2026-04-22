@@ -1,0 +1,110 @@
+{
+  "mode": "classic",
+  "runs": 3,
+  "cold": [
+    {
+      "pageLoadTime": 1304,
+      "timeToInteractive": 15003,
+      "fieldFillTime": 8,
+      "updateWaitTime": 2006,
+      "totalInteractionTime": 2014,
+      "serverCalls": 0,
+      "fieldTimings": [
+        6,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "pageLoadTime": 1267,
+      "timeToInteractive": 15003,
+      "fieldFillTime": 5,
+      "updateWaitTime": 2004,
+      "totalInteractionTime": 2009,
+      "serverCalls": 0,
+      "fieldTimings": [
+        3,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "pageLoadTime": 1267,
+      "timeToInteractive": 15001,
+      "fieldFillTime": 4,
+      "updateWaitTime": 2003,
+      "totalInteractionTime": 2007,
+      "serverCalls": 0,
+      "fieldTimings": [
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "warm": [
+    {
+      "pageLoadTime": 1278,
+      "timeToInteractive": 15004,
+      "fieldFillTime": 7,
+      "updateWaitTime": 2004,
+      "totalInteractionTime": 2011,
+      "serverCalls": 0,
+      "fieldTimings": [
+        4,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "pageLoadTime": 1235,
+      "timeToInteractive": 15003,
+      "fieldFillTime": 4,
+      "updateWaitTime": 2005,
+      "totalInteractionTime": 2009,
+      "serverCalls": 0,
+      "fieldTimings": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "pageLoadTime": 1206,
+      "timeToInteractive": 15002,
+      "fieldFillTime": 4,
+      "updateWaitTime": 2004,
+      "totalInteractionTime": 2008,
+      "serverCalls": 0,
+      "fieldTimings": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

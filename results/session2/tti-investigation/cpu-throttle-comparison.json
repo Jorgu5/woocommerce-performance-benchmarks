@@ -1,0 +1,86 @@
+{
+  "classic": {
+    "throttled": [
+      {
+        "score": 96,
+        "tti": 4465,
+        "tbt": 72,
+        "fcp": 2255
+      },
+      {
+        "score": 97,
+        "tti": 4553,
+        "tbt": 41,
+        "fcp": 2090
+      },
+      {
+        "score": 96,
+        "tti": 4343,
+        "tbt": 49,
+        "fcp": 2250
+      }
+    ],
+    "unthrottled": [
+      {
+        "score": 96,
+        "tti": 2256,
+        "tbt": 0,
+        "fcp": 2256
+      },
+      {
+        "score": 96,
+        "tti": 2248,
+        "tbt": 0,
+        "fcp": 2248
+      },
+      {
+        "score": 97,
+        "tti": 2104,
+        "tbt": 0,
+        "fcp": 2104
+      }
+    ]
+  },
+  "storeapi": {
+    "throttled": [
+      {
+        "score": 86,
+        "tti": 7991,
+        "tbt": 149,
+        "fcp": 2906
+      },
+      {
+        "score": 96,
+        "tti": 7804,
+        "tbt": 89,
+        "fcp": 2094
+      },
+      {
+        "score": 95,
+        "tti": 7373,
+        "tbt": 86,
+        "fcp": 2278
+      }
+    ],
+    "unthrottled": [
+      {
+        "score": 96,
+        "tti": 2222,
+        "tbt": 0,
+        "fcp": 2222
+      },
+      {
+        "score": 97,
+        "tti": 2088,
+        "tbt": 0,
+        "fcp": 2088
+      },
+      {
+        "score": 88,
+        "tti": 3209,
+        "tbt": 0,
+        "fcp": 2909
+      }
+    ]
+  }
+}

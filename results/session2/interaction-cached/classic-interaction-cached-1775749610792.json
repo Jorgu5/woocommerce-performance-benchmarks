@@ -1,0 +1,178 @@
+{
+  "mode": "classic",
+  "runs": 5,
+  "cold": [
+    {
+      "pageLoadTime": 996,
+      "timeToInteractive": 11,
+      "fieldFillTime": 4900,
+      "updateWaitTime": 2004,
+      "totalInteractionTime": 6904,
+      "serverCalls": 1,
+      "fieldTimings": [
+        524,
+        525,
+        877,
+        515,
+        578,
+        709,
+        1172
+      ]
+    },
+    {
+      "pageLoadTime": 1052,
+      "timeToInteractive": 7,
+      "fieldFillTime": 4956,
+      "updateWaitTime": 2013,
+      "totalInteractionTime": 6969,
+      "serverCalls": 1,
+      "fieldTimings": [
+        516,
+        514,
+        898,
+        513,
+        579,
+        729,
+        1207
+      ]
+    },
+    {
+      "pageLoadTime": 1032,
+      "timeToInteractive": 4,
+      "fieldFillTime": 4828,
+      "updateWaitTime": 2004,
+      "totalInteractionTime": 6832,
+      "serverCalls": 1,
+      "fieldTimings": [
+        474,
+        503,
+        874,
+        515,
+        591,
+        713,
+        1158
+      ]
+    },
+    {
+      "pageLoadTime": 1026,
+      "timeToInteractive": 6,
+      "fieldFillTime": 4873,
+      "updateWaitTime": 2004,
+      "totalInteractionTime": 6877,
+      "serverCalls": 1,
+      "fieldTimings": [
+        516,
+        507,
+        872,
+        509,
+        600,
+        704,
+        1165
+      ]
+    },
+    {
+      "pageLoadTime": 1216,
+      "timeToInteractive": 8,
+      "fieldFillTime": 4872,
+      "updateWaitTime": 2009,
+      "totalInteractionTime": 6881,
+      "serverCalls": 1,
+      "fieldTimings": [
+        514,
+        505,
+        869,
+        526,
+        577,
+        719,
+        1162
+      ]
+    }
+  ],
+  "warm": [
+    {
+      "pageLoadTime": 1186,
+      "timeToInteractive": 26,
+      "fieldFillTime": 4909,
+      "updateWaitTime": 2007,
+      "totalInteractionTime": 6916,
+      "serverCalls": 1,
+      "fieldTimings": [
+        534,
+        511,
+        875,
+        518,
+        578,
+        717,
+        1176
+      ]
+    },
+    {
+      "pageLoadTime": 1193,
+      "timeToInteractive": 7,
+      "fieldFillTime": 4897,
+      "updateWaitTime": 2007,
+      "totalInteractionTime": 6904,
+      "serverCalls": 1,
+      "fieldTimings": [
+        527,
+        510,
+        877,
+        514,
+        583,
+        716,
+        1170
+      ]
+    },
+    {
+      "pageLoadTime": 848,
+      "timeToInteractive": 6,
+      "fieldFillTime": 4913,
+      "updateWaitTime": 2012,
+      "totalInteractionTime": 6925,
+      "serverCalls": 1,
+      "fieldTimings": [
+        523,
+        516,
+        875,
+        517,
+        587,
+        716,
+        1179
+      ]
+    },
+    {
+      "pageLoadTime": 1168,
+      "timeToInteractive": 6,
+      "fieldFillTime": 4930,
+      "updateWaitTime": 2004,
+      "totalInteractionTime": 6934,
+      "serverCalls": 1,
+      "fieldTimings": [
+        562,
+        507,
+        876,
+        521,
+        575,
+        721,
+        1167
+      ]
+    },
+    {
+      "pageLoadTime": 1169,
+      "timeToInteractive": 8,
+      "fieldFillTime": 4989,
+      "updateWaitTime": 2007,
+      "totalInteractionTime": 6996,
+      "serverCalls": 1,
+      "fieldTimings": [
+        568,
+        518,
+        881,
+        514,
+        595,
+        716,
+        1197
+      ]
+    }
+  ]
+}

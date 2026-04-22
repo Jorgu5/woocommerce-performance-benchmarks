@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment / secrets
+.env
+.env.local
+*.pem
+*.key
+.mcp.json
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Note: we intentionally commit raw k6 JSON + Lighthouse reports to results/ so
+# anyone can re-aggregate our numbers. If you re-run the tests locally and don't
+# want to commit fresh outputs, add them explicitly here.

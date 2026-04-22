@@ -1,0 +1,25 @@
+{
+  "name": "woocommerce-performance-benchmarks-lighthouse",
+  "version": "1.0.0",
+  "description": "Puppeteer + Lighthouse scripts for WooCommerce Store API vs Classic checkout benchmarks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "audit:cached": "node audit-cached.mjs all",
+    "audit:cold": "node audit-with-cart.mjs all",
+    "network:cached": "node network-cached.mjs all",
+    "interaction:cached": "node interaction-cached.mjs all",
+    "vitals:real": "node real-vitals.mjs all",
+    "stripe": "node stripe-checkout-test.mjs all",
+    "multisite": "node multisite-test.mjs all"
+  },
+  "dependencies": {
+    "lighthouse": "^13.0.3",
+    "puppeteer": "^24.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jorgu5/woocommerce-performance-benchmarks"
+  },
+  "license": "CC0-1.0"
+}

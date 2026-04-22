@@ -1,0 +1,18 @@
+{
+  "mode": "classic",
+  "runs": 1,
+  "results": [
+    {
+      "addToCart": 1078,
+      "pageLoad": 3802,
+      "timeToInteractive": 11,
+      "fillBilling": 3506,
+      "updateWait": 2010,
+      "fillStripe": 212036,
+      "submitToConfirmation": 2037,
+      "success": true,
+      "finalUrl": "https://classic.mk-perf.sobolew.ski/checkout/order-received/72749/?key=wc_order_M6Tbtj7TuZVqh",
+      "totalCheckout": 223402
+    }
+  ]
+}

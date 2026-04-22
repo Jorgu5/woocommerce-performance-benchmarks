@@ -1,0 +1,66 @@
+{
+  "mode": "storeapi",
+  "runs": 5,
+  "results": [
+    {
+      "addToCart": 1058,
+      "pageLoad": 2705,
+      "timeToInteractive": 1510,
+      "fillBilling": 3837,
+      "updateWait": 1004,
+      "fillStripe": 2794,
+      "submitToConfirmation": 5420,
+      "success": true,
+      "finalUrl": "https://storeapi.mk-perf.sobolew.ski/checkout/order-received/58051/?key=wc_order_u0FPdU1PxTNWh",
+      "totalCheckout": 17270
+    },
+    {
+      "addToCart": 1071,
+      "pageLoad": 2695,
+      "timeToInteractive": 1508,
+      "fillBilling": 3824,
+      "updateWait": 1018,
+      "fillStripe": 2026,
+      "submitToConfirmation": 45050,
+      "success": false,
+      "finalUrl": "https://storeapi.mk-perf.sobolew.ski/checkout/",
+      "totalCheckout": 56121
+    },
+    {
+      "addToCart": 1145,
+      "pageLoad": 2835,
+      "timeToInteractive": 1509,
+      "fillBilling": 3933,
+      "updateWait": 1012,
+      "fillStripe": 2746,
+      "submitToConfirmation": 5187,
+      "success": true,
+      "finalUrl": "https://storeapi.mk-perf.sobolew.ski/checkout/order-received/58053/?key=wc_order_LTirIwhm1usoV",
+      "totalCheckout": 17222
+    },
+    {
+      "addToCart": 1090,
+      "pageLoad": 2450,
+      "timeToInteractive": 1508,
+      "fillBilling": 3880,
+      "updateWait": 1013,
+      "fillStripe": 2771,
+      "submitToConfirmation": 5293,
+      "success": true,
+      "finalUrl": "https://storeapi.mk-perf.sobolew.ski/checkout/order-received/58054/?key=wc_order_WtSriQPbawkPJ",
+      "totalCheckout": 16915
+    },
+    {
+      "addToCart": 1055,
+      "pageLoad": 2690,
+      "timeToInteractive": 1510,
+      "fillBilling": 3802,
+      "updateWait": 1006,
+      "fillStripe": 2743,
+      "submitToConfirmation": 5060,
+      "success": true,
+      "finalUrl": "https://storeapi.mk-perf.sobolew.ski/checkout/order-received/58055/?key=wc_order_PcZ1BdDKYQ9hy",
+      "totalCheckout": 16811
+    }
+  ]
+}

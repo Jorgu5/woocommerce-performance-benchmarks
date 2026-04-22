@@ -1,0 +1,18 @@
+{
+  "mode": "classic",
+  "runs": 1,
+  "results": [
+    {
+      "addToCart": 1115,
+      "pageLoad": 3746,
+      "timeToInteractive": 9,
+      "fillBilling": 3495,
+      "updateWait": 2006,
+      "fillStripe": 241063,
+      "submitToConfirmation": 15196,
+      "success": false,
+      "finalUrl": "https://classic.mk-perf.sobolew.ski/checkout/",
+      "error": "Protocol error (Page.captureScreenshot): Session closed. Most likely the page has been closed."
+    }
+  ]
+}

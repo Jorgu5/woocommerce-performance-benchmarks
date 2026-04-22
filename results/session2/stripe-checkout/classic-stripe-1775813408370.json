@@ -1,0 +1,18 @@
+{
+  "mode": "classic",
+  "runs": 1,
+  "results": [
+    {
+      "addToCart": 1083,
+      "pageLoad": 3365,
+      "timeToInteractive": 7,
+      "fillBilling": 3454,
+      "updateWait": 2005,
+      "fillStripe": 241571,
+      "submitToConfirmation": 60005,
+      "success": false,
+      "finalUrl": "https://classic.mk-perf.sobolew.ski/checkout/",
+      "totalCheckout": 310407
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+    "metrics": {
+        "http_req_blocked": {
+            "min": 0,
+            "med": 0,
+            "max": 139.221,
+            "p(90)": 0.001,
+            "p(95)": 0.002,
+            "avg": 0.2745453763852823
+        },
+        "vus_max": {
+            "value": 50,
+            "min": 50,
+            "max": 50
+        },
+        "http_req_waiting": {
+            "max": 1725.317,
+            "p(90)": 612.842,
+            "p(95)": 830.0047499999998,
+            "avg": 204.38420266526612,
+            "min": 61.432,
+            "med": 115.71
+        },
+        "checks": {
+            "passes": 5234,
+            "fails": 0,
+            "value": 1
+        },
+        "http_req_duration": {
+            "p(90)": 613.1675,
+            "p(95)": 830.60575,
+            "avg": 210.72185684944708,
+            "min": 61.478,
+            "med": 115.85900000000001,
+            "max": 1725.464
+        },
+        "journey_success": {
+            "count": 2617,
+            "rate": 6.207076712589863
+        },
+        "http_req_sending": {
+            "avg": 0.08980473824990333,
+            "min": 0.007,
+            "med": 0.051,
+            "max": 5.903,
+            "p(90)": 0.204,
+            "p(95)": 0.257
+        },
+        "sub_checkout_duration": {
+            "p(95)": 1237.3999999999999,
+            "avg": 805.5640045854032,
+            "min": 403,
+            "med": 771,
+            "max": 1726,
+            "p(90)": 1113
+        },
+        "iteration_duration": {
+            "avg": 6953.1035250821615,
+            "min": 5255.576708,
+            "med": 6954.930583,
+            "max": 8649.440958,
+            "p(90)": 7657.0007666,
+            "p(95)": 7860.643742
+        },
+        "http_req_connecting": {
+            "avg": 0.12147062476117694,
+            "min": 0,
+            "med": 0,
+            "max": 72.363,
+            "p(90)": 0,
+            "p(95)": 0
+        },
+        "data_received": {
+            "count": 147623336,
+            "rate": 350137.3217884711
+        },
+        "mixed_cart_build": {
+            "p(90)": 2132.4,
+            "p(95)": 2202,
+            "avg": 1856.796713794421,
+            "min": 1326,
+            "med": 1855,
+            "max": 2963
+        },
+        "vus": {
+            "value": 2,
+            "min": 1,
+            "max": 50
+        },
+        "http_req_tls_handshaking": {
+            "avg": 0.15203305311425294,
+            "min": 0,
+            "med": 0,
+            "max": 74.238,
+            "p(90)": 0,
+            "p(95)": 0
+        },
+        "http_req_receiving": {
+            "med": 0.035,
+            "max": 691.228,
+            "p(90)": 45.77,
+            "p(95)": 49.89075,
+            "avg": 6.247849445930567,
+            "min": 0.004
+        },
+        "data_sent": {
+            "count": 3332912,
+            "rate": 7905.0976157093255
+        },
+        "iterations": {
+            "count": 2617,
+            "rate": 6.207076712589863
+        },
+        "http_req_failed": {
+            "passes": 0,
+            "fails": 20936,
+            "value": 0
+        },
+        "http_reqs": {
+            "count": 20936,
+            "rate": 49.65661370071891
+        },
+        "http_req_duration{expected_response:true}": {
+            "med": 115.85900000000001,
+            "max": 1725.464,
+            "p(90)": 613.1675,
+            "p(95)": 830.60575,
+            "avg": 210.72185684944708,
+            "min": 61.478
+        }
+    },
+    "root_group": {
+        "name": "",
+        "path": "",
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "session init 200": {
+                    "name": "session init 200",
+                    "path": "::session init 200",
+                    "id": "e4077ac26b182e1b20d4e4cac4180311",
+                    "passes": 2617,
+                    "fails": 0
+                },
+                "apply_coupon 200": {
+                    "passes": 2617,
+                    "fails": 0,
+                    "name": "apply_coupon 200",
+                    "path": "::apply_coupon 200",
+                    "id": "abee2e90b2b92eb59c8a31f77a2e369c"
+                }
+            }
+    }
+}
